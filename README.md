@@ -16,14 +16,6 @@
 
 ###
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Red Eyes">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Red%20Eyes&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h2 data-importer="text" align="left">Languages</h2>
 
 ###
