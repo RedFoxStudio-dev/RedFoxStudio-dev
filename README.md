@@ -104,15 +104,15 @@
 
 <!-- GitHub Stats + Most Used Languages (lado a lado, centrados) -->
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedFoxStudio-dev&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&custom_title=RedFoxStudio-dev%27s%20Stats%20-%20Last%201%20Year" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedFoxStudio-dev&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="most used languages" />
+  <img src="https://github-readme-stats-two-chi-24.vercel.app/api?username=RedFoxStudio-dev&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5&custom_title=RedFoxStudio-dev%27s%20Stats%20-%20Last%201%20Year" height="180" alt="github stats" />
+  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/top-langs/?username=RedFoxStudio-dev&layout=compact&langs_count=10&theme=tokyonight&hide_border=false&border_radius=5" height="180" alt="most used languages" />
 </div>
 
 ###
 
 <!-- WakaTime (centrado, por baixo) -->
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RedFoxStudio-dev&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5" alt="wakatime stats" />
+  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/wakatime?username=RedFoxStudio-dev&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5" alt="wakatime stats" />
 </div>
 
 ###
