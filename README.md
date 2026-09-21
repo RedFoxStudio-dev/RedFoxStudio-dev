@@ -112,7 +112,7 @@
 
 <!-- WakaTime (centrado, por baixo) -->
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=O_TEU_USERNAME_WAKATIME&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5" alt="wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RedFoxStudio-dev&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5" alt="wakatime stats" />
 </div>
 
 ###
