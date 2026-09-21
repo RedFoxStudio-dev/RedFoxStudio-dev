@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RedFoxStudio-dev.RedFoxStudio-dev&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=RedFoxStudio-dev.RedFoxStudio-dev" alt="profile views" />
 </div>
 
 ###
@@ -12,7 +12,12 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Guilherme Cunha Cerqueira, from Portugal. I'm a self-educated person — I teach myself everything I need to know, not just programming.<br><br>My goal is simple: build my own company from zero, no matter what it takes.<br><br>I don't wait for someone to do things for me. If I want something, I go after it. If I don't know how to do something, I learn it. If I fail, I try again.<br><br>I might not always be active publicly or making commits, but that doesn't mean I'm not working. I'm always building, learning, or working on something behind the scenes. Right now, I'm also learning PCB design, expanding beyond software and learning how to build things from the ground up.<br><br>> If you want something, do it.<br>> If you don't do it, who will do it for you?<br><br>Become so disciplined that even your family calls you crazy.<br><br>I'm inspired by Cristiano Ronaldo for his mindset, David Goggins for his obsession and discipline, and Tony Stark for his intelligence, creativity, and ability to build.<br><br>No matter what happens, I will succeed.</p>
+<p data-importer="text" align="left">I'm Guilherme Cunha Cerqueira, from Portugal. I'm a self-educated person — I teach myself everything I need to know, not just programming.<br><br>My goal is simple: build my own company from zero, no matter what it takes.<br><br>I don't wait for someone to do things for me. If I want something, I go after it. If I don't know how to do something, I learn it. If I fail, I try again.<br><br>I might not always be active publicly or making commits, but that doesn't mean I'm not working. I'm always building, learning, or working on something behind the scenes. Right now, I'm also learning PCB design, expanding beyond software and learning how to build things from the ground up.</p>
+
+> If you want something, do it.  
+> If you don't do it, who will do it for you?
+
+<p data-importer="text" align="left">Become so disciplined that even your family calls you crazy.<br><br>I'm inspired by Cristiano Ronaldo for his mindset, David Goggins for his obsession and discipline, and Tony Stark for his intelligence, creativity, and ability to build.<br><br>No matter what happens, I will succeed.</p>
 
 ###
 
@@ -112,7 +117,7 @@
 
 <!-- WakaTime (centrado, por baixo) -->
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/wakatime?username=@c185a243-b32e-4e38-8b91-12b329cefc33&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5&custom_title=WakaTime%20Stats%20(all%20time)" alt="wakatime stats" />
+  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/wakatime?username=@c185a243-b32e-4e38-8b91-12b329cefc33&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5&range=last_7_days&custom_title=WakaTime%20Stats%20(last%207%20days)&v=2" alt="wakatime stats" />
 </div>
 
 ###
