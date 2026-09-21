@@ -112,7 +112,7 @@
 
 <!-- WakaTime (centrado, por baixo) -->
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/wakatime?username=@c185a243-b32e-4e38-8b91-12b329cefc33&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5" alt="wakatime stats" />
+  <img src="https://github-readme-stats-two-chi-24.vercel.app/api/wakatime?username=@c185a243-b32e-4e38-8b91-12b329cefc33&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&border_radius=5&custom_title=WakaTime%20Stats%20(all%20time)" alt="wakatime stats" />
 </div>
 
 ###
